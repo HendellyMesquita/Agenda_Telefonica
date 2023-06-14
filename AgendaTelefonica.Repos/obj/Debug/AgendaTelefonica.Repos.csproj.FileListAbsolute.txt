@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\AgendaTelefonica.Repos.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\AgendaTelefonica.Repos.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\AgendaTelefonica.Domain.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\AgendaTelefonica.Infra.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\Dapper.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\AgendaTelefonica.Domain.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\AgendaTelefonica.Infra.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\bin\Debug\Dapper.xml
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\obj\Debug\AgendaTelefonica.Repos.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\obj\Debug\AgendaTelefonica.Repos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\obj\Debug\AgendaTelefonica.Repos.csproj.CopyComplete
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\obj\Debug\AgendaTelefonica.Repos.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Repos\obj\Debug\AgendaTelefonica.Repos.pdb

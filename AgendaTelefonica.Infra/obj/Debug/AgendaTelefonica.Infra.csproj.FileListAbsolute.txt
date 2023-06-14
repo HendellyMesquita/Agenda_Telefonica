@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\AgendaTelefonica.Infra.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\AgendaTelefonica.Infra.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\nunit.framework.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\nunit.framework.xml
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\obj\Debug\AgendaTelefonica.Infra.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\obj\Debug\AgendaTelefonica.Infra.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\obj\Debug\AgendaTelefonica.Infra.csproj.CopyComplete
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\obj\Debug\AgendaTelefonica.Infra.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\obj\Debug\AgendaTelefonica.Infra.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\AgendaTelefonica.Domain.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\AgendaTelefonica.Domain.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\Dapper.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Infra\bin\Debug\Dapper.xml

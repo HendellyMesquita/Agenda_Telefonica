@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\AgendaTelefonica.Domain.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Domain\bin\Debug\AgendaTelefonica.Domain.pdb
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\AgendaTelefonica.Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\AgendaTelefonica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\AgendaTelefonica.Domain.dll
+C:\Users\usuario\Documents\Projetos\AgendaTelefonica\AgendaTelefonica.Domain\obj\Debug\AgendaTelefonica.Domain.pdb
